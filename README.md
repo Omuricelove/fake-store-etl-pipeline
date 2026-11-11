@@ -17,6 +17,6 @@ A simple Python ETL pipeline that extracts product and user data from the Fake S
 
 1. **Clone the project & set up a virtual environment:**
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
-   cd <YOUR_PROJECT_FOLDER>
+   git clone https://github.com/Omuricelove/fake-store-etl-pipeline.git
+   cd fake-store-etl-pipeline
    python -m venv venv
